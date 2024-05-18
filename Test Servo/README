@@ -1,1 +1,5 @@
-Questa cartella contiene il codice di Arduino (.ino) per testare un servo motore con un potenziometro
+Questa cartella contiene un codice di Arduino (.ino) e uno schema elettrico:
+  - Il codice è utile per testare i servo motori, una volta installati sull'alloggio delle ruote del rover, 
+    e verificare l'angolo di sterzata delle ruote anteriori e posteriori;
+  - Lo schema elettrico mostra il collegamento tra servo motore - potenziometro e arduino.
+
